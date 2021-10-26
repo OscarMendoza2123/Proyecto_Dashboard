@@ -1,2 +1,2 @@
-# Proyecto_Dashboar
- Proyecto dashboard pra el ministerio de defensa 
+# Proyecto_Dashboard
+ Proyecto dashboard para el ministerio de defensa.
